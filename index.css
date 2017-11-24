@@ -1,0 +1,193 @@
+@font-face{
+	font-family:Isabella Script Monoline;
+	src: url(police/Isabella-Script-Monoline.ttf);
+}
+@font-face{
+	font-family:national-black;
+	src: url(police/National-black.otf);
+}
+@font-face{
+	font-family:national-bold;
+    src: url(police/National-Bold.otf);
+}
+header .nom{ 
+    margin-top:200px
+}
+header h1{
+    font-family:"national-black";
+    font-size:800%;
+    margin-top:100px;
+}
+header h2{
+    font-family:"Isabella Script Monoline";
+    margin-top:450px;
+    font-size:300%;
+    word-spacing:6px; 
+    line-height:45px;
+}
+header h3{
+    font-family:"Isabella Script Monoline";
+    margin-bottom:170px;
+    font-size:1500%;    
+}
+header a{
+    font-family:"national-bold";
+    margin-bottom:100px;
+}
+header .ligne{
+    margin-top:400px
+}
+container p{
+    font-family:"national-book";
+}
+header .barre{
+    background-color:rgba(255, 0, 76, 0.753);
+    margin-top:400px;
+}
+contain .myprofil h1{
+    font-family:"national-black";
+    font-size:600%; 
+    margin-left:32px;
+    margin-top:42px;
+}
+contain .myprofil h2{
+    margin-left:50px;
+    margin-top:142px;
+    font-family:"Isabella Script Monoline";
+    font-size:500%;
+}
+contain .myprofil h3{
+    margin-left:60px;
+    margin-top:322px;
+    font-size:150%;
+    font-family:"national-light";
+}
+contain .myprofil h4{
+    margin-left:60px;
+    margin-top:402px;
+    font-size:150%;
+    font-family:"national-light";
+}  
+contain .langues h1{
+    margin-left:40px;
+    margin-top:462px;
+    font-family:"Isabella Script Monoline";
+    font-size:500%;
+}
+contain .langues h2{
+    font-family:"national-light";
+    font-size:150%;
+    margin-top:560px;
+    margin-left:60px;
+}
+contain .langues h3{
+    font-family:"national-light";
+    font-size:150%;
+    margin-top:620px;
+    margin-left:60px;
+}
+contain .langues h4{
+    font-family:"national-light";
+    font-size:150%;
+    margin-top:680px;
+    margin-left:60px;
+}
+contain .francais{
+    margin-left:60px;
+    margin-top:592px;
+    font-family:"national-light";
+} 
+contain .anglais{
+    margin-left:60px;
+    margin-top:650px;
+    font-family:"national-light";
+} 
+contain .italien{
+    margin-left:60px;
+    margin-top:710px;
+    font-family:"national-light";
+} 
+contain .myprofil p{
+    font-family:"national-light";
+    font-size:150%;
+    margin-top:242px;
+    margin-left:60px;
+}
+contain .photoshop{
+    margin-left:60px;
+    margin-top:282px;
+    font-family:"national-light";
+}
+contain .illustrator{
+    margin-left:60px;
+    margin-top:362px;
+    font-family:"national-light";
+}
+contain .indesign{
+    margin-left:60px;
+    margin-top:442px;
+    font-family:"national-light";
+}
+contain .myalternance h1{
+    font-family:"national-black";
+    font-size:600%; 
+    margin-left:32px;
+    margin-top:52px;
+}
+contain  .myalternance h2{
+    margin-left:50px;
+    margin-top:170px;
+    font-family:"Isabella Script Monoline";
+    font-size:600%;
+}
+contain .myalternance p{
+    background-color:rgba(0, 0, 0, 0.568);
+    margin-left:50px;
+    margin-right:500px;
+    margin-top:270px;
+    font-family:"national-book", sans-serif;
+    font-size:100%;
+    padding:20px;
+}
+contain .mycontact h1{
+    font-size:600%; 
+    margin-left:420px;
+    margin-top:32px;
+}
+contain  .mycontact h2{
+    margin-left:350px;
+    margin-top:120px;
+    font-family:"Isabella Script Monoline";
+    font-size:600%;
+}
+contain .mycontact p{
+    margin-left:50px;
+    font-family:"national-book";
+    font-size:100%;
+}
+contain .name p{
+    margin-bottom:180px;
+    margin-left:600px;
+    font-family:"Isabella Script Monoline";
+    font-size:400%;
+}
+contain .name input{
+    margin-bottom:170px;
+    margin-left:530px;
+}
+contain .mail p{
+    margin-bottom:100px;
+    margin-left:600px;
+    font-family:"Isabella Script Monoline";
+    font-size:400%;
+}
+contain .mail input{
+    margin-bottom:100px;
+    margin-left:530px;
+}
+contain .url{
+    margin-bottom:100px;
+    margin-left:530px; 
+    font-family:"national-book";
+    font-size:120%;
+}
