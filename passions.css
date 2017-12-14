@@ -1,0 +1,40 @@
+@font-face {
+	font-family:"isabella-script-monoline";
+	src:url(police/isabella-script-monoline.ttf);
+}
+@font-face {
+	font-family:"national-black";
+	src:url(police/national-font/national-black.otf);
+}
+@font-face {
+	font-family:"national-bold";
+    src:url(police/national-font/national-bold.otf);
+}
+@font-face {
+	font-family:"national-light";
+    src:url(police/national-font/national-light.otf);
+}
+@font-face {
+	font-family:"national-book";
+    src:url(police/national-font/national-book.otf);
+}
+header h1{
+    font-family:"national-black";
+    font-size:600%; 
+    margin-left:302px;
+    margin-top:140px;
+}
+header h2{
+    margin-top:240px;
+    margin-left:140px;
+    font-family:"isabella-script-monoline";
+    font-size:650%;
+}
+contain .passions h1{
+    margin-left:150px;
+    margin-right:150px;
+    margin-top:60px;
+    font-family:"national-book";
+    font-size:120%;
+    background-color:rgba(255, 255, 255, 0.637);
+}
