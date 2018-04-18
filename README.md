@@ -7,7 +7,6 @@ L'objectif de ce site est d'être complémentaire a mon CV papier.
 
 * Une photo de chaque projet par cadre (la taille du cadre photo est en fonction de l'importance du projet) 
 * Lorsque l'on passe la souris sur le cadre on obtient le sujet et une petite description du projet qui interesse le lecteur. 
-* 
 
 ## Les cibles:
 
@@ -20,6 +19,20 @@ Les cibles sont :
 
 ## Les différentes pages :
 
-* La page d'accueil -> Comprend le générateur.
-* Proposition d'idées -> Permet de faire vivre le site.
-* A propos -> Faire comprendre le concept aux visiteurs.
+* La page d'accueil -> Mon Nom et Prénom et des photos de mes projets principaux 
+* Page projet -> D'autres projet.
+* Page Voyage -> Carnet photo de tout mes voyages.
+* Page Passion et Contact --> Carnet photo personnel, graphisme personnel et dessin, et un moyen de me contacter par mail directement. 
+
+
+![Index.html](https://image.noelshack.com/fichiers/2018/16/3/1524056734-maquette-site-01.png)
+> La page d'accueil.
+
+![projet](https://image.noelshack.com/fichiers/2018/16/3/1524056771-maquette-site-02.png)
+> Page projet .
+
+![voyage](https://image.noelshack.com/fichiers/2018/16/3/1524056797-maquette-site-03.png)
+> Page Voyage.
+
+![passions](https://image.noelshack.com/fichiers/2018/16/3/1524056821-maquette-site-04.png)
+> Page Passions et contact.
