@@ -19,14 +19,14 @@ Les cibles sont :
 
 ## Les différentes pages :
 
-* La page d'accueil -> Mon Nom et Prénom et des photos de mes projets principaux 
+* Page d'accueil -> Mon Nom et Prénom et des photos de mes projets principaux 
 * Page projet -> D'autres projet.
 * Page Voyage -> Carnet photo de tout mes voyages.
 * Page Passion et Contact --> Carnet photo personnel, graphisme personnel et dessin, et un moyen de me contacter par mail directement. 
 
 
 ![Index.html](https://image.noelshack.com/fichiers/2018/16/3/1524056734-maquette-site-01.png)
-> La page d'accueil.
+> Page d'accueil.
 
 ![projet](https://image.noelshack.com/fichiers/2018/16/3/1524056771-maquette-site-02.png)
 > Page projet .
