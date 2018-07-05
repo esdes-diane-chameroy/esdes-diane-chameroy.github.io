@@ -24,14 +24,14 @@ Les cibles sont :
 * Page Passion --> Article sur mes passions, graphisme, art...
 
 
-![Index.html](https://image.noelshack.com/fichiers/2018/27/4/1530783515-page1-01.jpg)
+![Index.html](https://image.noelshack.com/fichiers/2018/27/4/1530784860-page1-01.png)
 > Page d'accueil.
 
-![projet](https://image.noelshack.com/fichiers/2018/27/4/1530783569-page-2-02.jpg)
+![projet](https://image.noelshack.com/fichiers/2018/27/4/1530784903-page2-02.png)
 > Page Alternance.
 
-![voyage](https://image.noelshack.com/fichiers/2018/27/4/1530783599-page-3-03.jpg)
+![voyage](https://image.noelshack.com/fichiers/2018/27/4/1530784924-page3-03.png)
 > Page Voyage.
 
-![passions](https://image.noelshack.com/fichiers/2018/27/4/1530783619-page-4-04.jpg)
+![passions](https://image.noelshack.com/fichiers/2018/27/4/1530784952-page4-04.png)
 > Page Passions.
