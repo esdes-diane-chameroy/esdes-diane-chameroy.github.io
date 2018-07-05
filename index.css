@@ -1,0 +1,395 @@
+@font-face {
+	font-family:"isabella-script-monoline";
+	src:url(police/isabella-script-monoline.ttf);
+}
+@font-face {
+	font-family:"national-black";
+	src:url(police/national-font/national-black.otf);
+}
+@font-face {
+	font-family:"national-bold";
+    src:url(police/national-font/national-bold.otf);
+}
+@font-face {
+	font-family:"national-light";
+    src:url(police/national-font/national-light.otf);
+}
+@font-face {
+	font-family:"national-book";
+    src:url(police/national-font/national-book.otf);
+}
+header .nom { 
+    margin-top:200px;
+    margin-right:100px;
+}
+header h1{
+    font-family:"national-black";
+    font-size:800%;
+    margin-top:100px;
+}
+.Petale { 
+    margin-top:780px;
+    margin-left:250px;
+    -webkit-background-size: auto;
+    -moz-background-size: auto;
+    -o-background-size: auto;
+    background-size: auto;
+    background-repeat: no-repeat;
+    animation: Petale 15s infinite;
+}
+@keyframes Petale {
+    0%   {left: 400px; top: -375px;}
+    25%  {left: 350px; top: -350px;}
+    50%  {left: 400px; top: -375px;}
+    75%  {left: 350px; top: -350px;}
+    100% {left: 400px; top: -375px;}
+}
+header h2{
+    font-family:"isabella-script-monoline";
+    margin-top:450px;
+    font-size:300%;
+    word-spacing:6px; 
+    line-height:45px;
+}
+header h3{
+    font-family:"isabella-script-monoline";
+    margin-bottom:140px;
+    font-size:2500%;    
+}
+header a{
+    font-family:"national-bold";
+    margin-bottom:100px;
+}
+header .ligne{
+    margin-top:400px
+}
+container p{
+    font-family:"national-book";
+}
+header .barre{
+    background-color:rgba(255, 0, 76, 0.753);
+    margin-top:400px;
+}
+contain .diane{
+    margin-top:200px;
+    margin-left:30px;
+}
+contain .myprofil h1{
+    font-family:"national-black";
+    font-size:600%; 
+    margin-left:32px;
+    margin-top:42px;
+}
+contain .myprofil h2{
+    margin-right:50px;
+    margin-top:142px;
+    font-family:"isabella-script-monoline";
+    font-size:500%;
+}
+contain .myprofil h3{
+    margin-right:60px;
+    margin-top:322px;
+    font-size:150%;
+    font-family:"national-light";
+}
+contain .myprofil h4{
+    margin-right:60px;
+    margin-top:402px;
+    font-size:150%;
+    font-family:"national-light";
+}  
+contain .langues h1{
+    margin-right:40px;
+    margin-top:462px;
+    font-family:"isabella-script-monoline";
+    font-size:500%;
+}
+contain .langues h2{
+    font-family:"national-light";
+    font-size:150%;
+    margin-top:560px;
+    margin-right:60px;
+}
+contain .langues h3{
+    font-family:"national-light";
+    font-size:150%;
+    margin-top:620px;
+    margin-right:60px;
+}
+contain .langues h4{
+    font-family:"national-light";
+    font-size:150%;
+    margin-top:680px;
+    margin-right:60px;
+}
+contain .francais{
+    margin-right:60px;
+    margin-top:592px;
+    font-family:"national-light";
+} 
+contain .anglais{
+    margin-right:60px;
+    margin-top:650px;
+    font-family:"national-light";
+} 
+contain .italien{
+    margin-right:60px;
+    margin-top:710px;
+    font-family:"national-light";
+} 
+contain .myprofil p{
+    font-family:"national-light";
+    font-size:150%;
+    margin-top:242px;
+    margin-right:60px;
+}
+contain .photoshop{
+    margin-right:60px;
+    margin-top:282px;
+    font-family:"national-light";
+}
+contain .illustrator{
+    margin-right:60px;
+    margin-top:362px;
+    font-family:"national-light";
+}
+contain .indesign{
+    margin-right:60px;
+    margin-top:442px;
+    font-family:"national-light";
+}
+contain .myalternance h1{
+    font-family:"national-black";
+    font-size:600%; 
+    margin-left:32px;
+    margin-top:52px;
+}
+contain  .myalternance h2{
+    background-color:rgba(3, 44, 90, 0.568);
+    margin-top:270px;
+    margin-right:30px;
+    font-family:"isabella-script-monoline";
+    font-size:600%;
+}
+contain  .myalternance h3{
+    margin-left:50px;
+    margin-top:150px;
+    font-family:"isabella-script-monoline";
+    font-size:600%;
+}
+contain .myalternance p{
+    background-color:rgba(3, 44, 90, 0.568);
+    margin-left:835px;
+    margin-right:30px;
+    margin-top:405px;
+    font-family:"national-book";
+    font-size:100%;
+    padding:16px;
+}
+contain .clubmed1{
+    margin-top:790px;
+    margin-right:80px;
+}
+contain .clubmedinfographie{
+    margin-top:260px;
+    margin-left:30px;
+}
+contain .mycontact h1{
+    font-size:600%; 
+    margin-left:420px;
+    margin-top:32px;
+}
+contain  .mycontact h2{
+    margin-left:390px;
+    margin-top:120px;
+    font-family:"isabella-script-monoline";
+    font-size:500%;
+}
+contain .mycontact h3{
+    font-family:"national-light";
+    font-size:150%;
+    margin-top:650px;
+    margin-left:60px;
+}
+contain .mycontact p{
+    margin-left:50px;
+    font-family:"national-book";
+    font-size:100%;
+}
+contain .name p{
+    margin-bottom:180px;
+    margin-left:550px;
+    font-family:"isabella-script-monoline";
+    font-size:400%;
+}
+contain .name input{
+    margin-bottom:170px;
+    margin-left:530px;
+}
+contain .mail p{
+    margin-bottom:100px;
+    margin-left:550px;
+    font-family:"isabella-script-monoline";
+    font-size:400%;
+}
+contain .mail input{
+    margin-bottom:100px;
+    margin-left:530px;
+}
+contain .url{
+    margin-bottom:100px;
+    margin-left:520px; 
+    font-family:"national-book";
+    font-size:120%;
+}
+.portofolio{
+    display:flex; 
+    flex-wrap:column;
+    justify-content:center;
+}
+.ligne1{
+    display:flex;
+    flex-wrap:row;
+}
+.ligne1 img{
+    width:350px;
+    height:250px;
+}
+/*For Mobile*/
+@media only screen and (max-width:600px){
+    header .nom { 
+        font-size:400%;
+    }
+    header h1{
+        font-size:400%;
+    }
+    header h3{
+        font-size:500%;    
+    }
+    header .barre{
+        background-color:rgba(255, 0, 76, 0.753);
+        margin-top:200px;
+    }
+    contain .myprofil h1{
+        font-size:300%;
+        margin-left:22px;
+        margin-top:2px; 
+    }
+    contain .myprofil h2{
+        font-size:200%;
+        margin-right:200px;
+        margin-top:42px;
+    }
+    contain .myprofil h3{
+        font-size:75%;
+        margin-left:10px;
+        margin-top:55px; 
+    }
+    contain .myprofil h4{
+        font-size:75%;
+        margin-left:30px;
+        margin-top:152px;
+    } 
+    contain .myprofil p{
+        font-size:75%;
+        margin-top:121px;
+        margin-right:30px;
+    }
+    contain .langues h1{
+        margin-right:200px;
+        margin-top:170px;
+        font-size:200%;
+    }
+    contain .langues h2{
+        font-size:75%;
+        margin-top:200px;
+        margin-right:300px;
+    }
+    contain .langues h3{
+        font-size:75%;
+        margin-top:100px;
+        margin-right:130px;
+    }
+    contain .langues h4{
+        font-size:75%;
+        margin-top:200px;
+        margin-right:200px;
+    }
+    contain .francais{
+        margin-right:30px;
+        margin-top:200px;
+    } 
+    contain .anglais{
+        margin-right:100px;
+        margin-top:200px;
+    } 
+    contain .italien{
+        margin-right:30px;
+        margin-top:200px;
+    } 
+    contain .photoshop{
+        margin-right:30px;
+        margin-top:70px;
+    }
+    contain .illustrator{
+        margin-right:30px;
+        margin-top:110px;
+    }
+    contain .indesign{
+        margin-right:30px;
+        margin-top:150px;
+    } 
+    contain .mycontact h1{
+        font-size:300%; 
+        margin-left:120px;
+        margin-top:12px;
+    }
+    contain  .mycontact h2{
+        margin-left:20px;
+        margin-top:55px;
+        font-size:150%;
+    }
+    contain .mycontact h3{
+        font-size:75%;
+        margin-top:525px;
+        margin-left:100px;
+    }
+    contain .mycontact p{
+        margin-left:25px;
+        font-size:50%;
+    }
+    contain .name p{
+        margin-bottom:70px;
+        margin-left:175px;
+        font-size:200%;
+    }
+    contain .name input{
+        margin-bottom:55px;
+        margin-left:145px;
+    }
+    contain .mail p{
+        margin-bottom:20px;
+        margin-left:175px;
+        font-size:200%;
+    }
+    contain .mail input{
+        margin-bottom:10px;
+        margin-left:145px;
+    }
+    contain .url{
+        margin-bottom:50px;
+        margin-left:260px; 
+        font-size:60%;
+    }
+    .Petale { 
+        margin-top:200px;
+        margin-left:700px;
+    }
+
+}
+/*For Tablet*/
+@media only screen and (max-width:768px) and (min-width:900px){
+    section {
+        width:80%;
+    }
+}

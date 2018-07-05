@@ -1,0 +1,75 @@
+@font-face {
+	font-family:"isabella-script-monoline";
+	src:url(police/isabella-script-monoline.ttf);
+}
+@font-face {
+	font-family:"national-black";
+	src:url(police/national-font/national-black.otf);
+}
+@font-face {
+	font-family:"national-bold";
+    src:url(police/national-font/national-bold.otf);
+}
+@font-face {
+	font-family:"national-light";
+    src:url(police/national-font/national-light.otf);
+}
+@font-face {
+	font-family:"national-book";
+    src:url(police/national-font/national-book.otf);
+}
+header h1{
+    font-family:"national-black";
+    font-size:600%; 
+    margin-left:32px;
+    margin-top:52px;
+}
+header h2{
+    background-color:rgba(3, 44, 90, 0.568);
+    margin-top:270px;
+    margin-right:30px;
+    font-family:"isabella-script-monoline";
+    font-size:600%;
+}
+header h3{
+    margin-left:50px;
+    margin-top:150px;
+    font-family:"isabella-script-monoline";
+    font-size:600%;
+}
+header a{
+    font-family:"national-bold";
+    margin-bottom:100px;
+}
+contain .groupeclubmed h1{
+    margin-bottom:480px;
+    margin-left:50px;
+    font-family:"isabella-script-monoline";
+    font-size:800%; 
+}
+contain .groupeclubmed p{
+    background-color:rgba(3, 44, 90, 0.568);
+    margin-left:70px;
+    margin-right:400px;
+    margin-top:180px;
+    font-family:"national-book";
+    padding:16px;
+    font-size:100%;
+}
+header p{
+    background-color:rgba(3, 44, 90, 0.568);
+    margin-left:835px;
+    margin-right:30px;
+    margin-top:405px;
+    font-family:"national-book";
+    font-size:100%;
+    padding:16px;
+}
+header .clubmed1{
+    margin-top:840px;
+    margin-right:80px;
+}
+header .clubmedinfographie{
+    margin-top:260px;
+    margin-left:30px;
+}
